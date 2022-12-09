@@ -2,14 +2,16 @@
 #include <stdlib.h>
 
 /**
- * main - main function to print 0 to 9 
+ * main - main function to print 0 to 9
  *
  * Return: Always 0 (Success)
  */
 
 int main(void)
+
 {
 	int num = '0';
+
 	while (num <= '9')
 	{
 		putchar(num);
