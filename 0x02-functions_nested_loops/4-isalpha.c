@@ -3,7 +3,7 @@
 /**
  * _isalpha - Checks if c is a letter whether lowr or uppercase and returns 1
  * @c: The int value to  be compared to the ASCII value
- * Otherwise return 0
+ * Return: 1 if alphabet otherwise 0
  */
 
 int _isalpha(int c)
